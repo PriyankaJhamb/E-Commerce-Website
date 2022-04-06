@@ -1,6 +1,6 @@
 # Welcome to my E-Commerce Website
 
-- This website is made to buy best type of  boxes, baskets and bins through online mode.
+- This website is made to buy best type of  boxes, baskets and bins through online mode using a interactive website using HTML, CSS and PHP.
 
 - Webpage Link - [E-Commerce Website](https://boxesbasketsandbinsstore.000webhostapp.com/index.php)  .<br><br>
 
